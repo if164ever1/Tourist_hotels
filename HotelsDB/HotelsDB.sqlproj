@@ -61,5 +61,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Region.sql" />
+    <Build Include="dbo\Tables\RoomTypes.sql" />
   </ItemGroup>
 </Project>
